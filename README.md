@@ -1,4 +1,5 @@
-# PokéAPI — Documentação Completa
+# PokePortal — Documentação Completa
+![Demo Image](src\assets\pokeportal.png)
 
 > Documentação de referência para consumo da PokéAPI v2 e construção de um portal completo e responsivo.
 
