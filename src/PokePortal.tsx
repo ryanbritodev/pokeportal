@@ -466,7 +466,7 @@ const Modal = ({
                     onClick={() => setShiny(v => !v)}
                     title="Toggle Shiny"
                   >✨ Shiny</button>
-                  <button className="ctrl-btn" onClick={playCry} title="Play Cry">
+                  <button className="ctrl-btn" onClick={playCry} title="Play Sound">
                     🔊 Sound
                   </button>
                 </div>
